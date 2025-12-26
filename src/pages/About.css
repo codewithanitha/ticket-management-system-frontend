@@ -1,0 +1,35 @@
+.about {
+  padding: 50px;
+  max-width: 900px;
+  margin: auto;
+  font-family: "Inter", sans-serif;
+  color: #374151;
+}
+
+.about h2 {
+  font-family: "Playfair Display", serif;
+  color: #2565AE;
+}
+
+.about h3 {
+  margin-top: 30px;
+  font-size: 20px;
+  color: #2565AE;
+  border-left: 4px solid #2565AE;
+  padding-left: 10px;
+}
+
+.about p,
+.about li {
+  color: #334155;
+}
+
+
+.about ul {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+.about li {
+  margin-bottom: 8px;
+}
